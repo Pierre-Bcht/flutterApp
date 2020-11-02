@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304917023083",
+    "firebase_url": "https://netflux---flutter.firebaseio.com",
+    "project_id": "netflux---flutter",
+    "storage_bucket": "netflux---flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304917023083:android:93f7669c98cf835772a42e",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304917023083-71neip4pl0676b5ognm2fquf5av59nlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtoJO0vN2WDLMa7B7YYEc99izbYSLYIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304917023083-71neip4pl0676b5ognm2fquf5av59nlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
